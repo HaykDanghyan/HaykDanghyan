@@ -9,7 +9,7 @@
   <div align = "center">
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" height="500"/>
 </div>
 <h1>
   <div align = "center">
