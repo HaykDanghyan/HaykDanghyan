@@ -8,14 +8,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1>
-  My GitHub stats
-  <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30px"/>
-</h1>
+
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=dark&background=000000">
-<h1>
-  Often I use these programming languages
-  <img src="https://media.giphy.com/media/0kUT43S9OMN01u6mRG/giphy.gif" width="66px"/>
-</h1>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=vision-friendly-dark">
+<h1>
+  Languages And Tools
+  <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"/>
+</h1>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> </p>
 
