@@ -12,9 +12,9 @@
   My GitHub stats
   <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width = "40px" length = "40px"/>
 </h1>
-<img src = "https://github-readme-stats.vercel.app/api?username=HaykDanghyan&theme=radical" width = "500px"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=HaykDanghyan&theme=tokyonight" width = "500px"/>
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=dark&background=000000">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=vision-friendly-dark&radical" width = "500px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=tokyonight" width = "500px">
 <h1>
   Languages And Tools
   <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30px"/>
