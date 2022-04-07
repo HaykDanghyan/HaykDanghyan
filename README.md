@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/2sO1M1s7KcevC/giphy.gif" width="50px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="600" height="300"/>
 </div>
 
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=dark&background=000000">
