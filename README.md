@@ -1,15 +1,4 @@
-              Welcome to my GitHub page👋
-
-
-
-
-
-
-<img src = "https://user-images.githubusercontent.com/98834723/162127108-3df23680-dc89-4501-9468-886adb784670.png">
-
-
-
-
+### Hi ,I'm Hayk Danghyan👋
 
 
 
