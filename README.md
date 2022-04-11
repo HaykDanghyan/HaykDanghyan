@@ -16,9 +16,9 @@
   <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width = "50px" length = "50px"/>
 </h1>
 <div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=HaykDanghyan&theme=tokyonight" width = "500px"/>
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=tokyonight&background=000000" width = "500" length = "1200px">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=tokyonight" width = "500px">
+<img src = "https://github-readme-stats.vercel.app/api?username=HaykDanghyan&theme=tokyonight" width = "400px"/>
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=tokyonight&background=000000" width = "400" length = "1200px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=tokyonight" width = "400px">
 <h1>
   Languages And Tools
   <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="50px"/>
