@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**HaykDanghyan/HaykDanghyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+  <div align = "center">
+  <div align = "center">
+  <div align = "center">
+</h1>
+<div align="center">
+</div>
+<h1>
+  <div align = "center">
+</h1>
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=HaykDanghyan&theme=tokyonight" width = "400px"/>
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=HaykDanghyan&theme=tokyonight&background=000000" width = "400" length = "1200px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HaykDanghyan&layout=compact&theme=tokyonight" width = "400px">
+<h1>
+  <div align = "left">
+</h1>
+<div align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img>
+  <div align = "center">
+<h1>
+  <img src="https://activity-graph.herokuapp.com/graph?username=HaykDanghyan&theme=xcode">
+</h1>
