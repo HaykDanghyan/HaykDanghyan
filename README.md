@@ -17,6 +17,3 @@
 </h1>
 <div align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img>
   <div align = "center">
-<h1>
-  <img src="https://activity-graph.herokuapp.com/graph?username=HaykDanghyan&theme=xcode">
-</h1>
